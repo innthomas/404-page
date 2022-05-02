@@ -41,13 +41,17 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+Check the demo link above.
 - What was your experience?
+It was easy.
 - What have you learned/improved?
+It healped me iron out my css skills.
 - Your wisdom? :)
+Building with vanilla html and css helps learners know the basis.
 
 ### Built With
 
-Vanilla html and css
+Vanilla html and css.
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 <!-- 
@@ -72,6 +76,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://innthomas.github.io)
-- GitHub [@your-username](https://github.com/innthomas)
-- Twitter [@your-twitter](https://twitter.com/innthomas)
+- Website [innthomas](https://innthomas.github.io)
+- GitHub [@innthomas](https://github.com/innthomas)
+- Twitter [@innthomas](https://twitter.com/innthomas)
